@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python2.7
 
 print("200 OK")
 print("Content-Type: text/plain")
