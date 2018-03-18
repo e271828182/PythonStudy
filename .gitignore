@@ -1,0 +1,10 @@
+/target/
+/bin/
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+debug.log
+**/node_modules
+**/frontsrc/dist
