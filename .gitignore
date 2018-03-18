@@ -8,3 +8,5 @@
 debug.log
 **/node_modules
 **/frontsrc/dist
+env/*
+env
