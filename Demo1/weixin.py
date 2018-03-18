@@ -1,4 +1,4 @@
-#!usr/bin/python2.7
+#!/home/star/PythonStudy/env/bin python
 # -*- coding: utf-8 -*-
 
 from flask import Flask
